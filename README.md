@@ -7,6 +7,5 @@
 - ✉ Fale comigo: davidlustosa3@gmail.com
 
 
-<img align="center" src="./components/titles/pt/activity.png" width="100%" alt="Título da seção Atividade" />
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Luk4x&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
 
