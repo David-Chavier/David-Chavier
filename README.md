@@ -20,6 +20,7 @@
 
 
 <img align="left" height="415px" src="https://luk4x-github-readme-stats.vercel.app/api/top-langs?username=Luk4x&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Top%20Linguagens&cache_seconds=14400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-Chavier&layout=donut&bg_color=00000000&hide_border=true" alt="Top Langs">
 <div align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=David-Chavier&show_icons=true&bg_color=00000000" alt="GitHub stats">
 </div>
