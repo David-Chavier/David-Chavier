@@ -10,14 +10,10 @@
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=David-Chavier&bg_color=00000000&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
 
 
-<img align="left" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-Chavier&layout=donut&bg_color=00000000&hide_border=true" alt="Top Langs" />
+<img align="left" display="block" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-Chavier&layout=donut&bg_color=00000000&hide_border=true" alt="Top Langs" />
 
 
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=David-Chavier&show_icons=true&bg_color=00000000&hide_border=true" alt="GitHub stats">
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Chavier&layout=donut&bg_color=00000000&hide_border=true)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=David-Chavier&show_icons=true&bg_color=00000000)
 
 
