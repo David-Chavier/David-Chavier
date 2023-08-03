@@ -13,7 +13,7 @@
   <div style="flex: 1; margin-right: 10px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-Chavier&layout=donut&bg_color=00000000&hide_border=true" alt="Top Langs">
   </div>
-  <div style="flex: 1; margin-left: 10px;">
+  <div style="flex: 1; margin-left: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=David-Chavier&show_icons=true&bg_color=00000000" alt="GitHub stats">
   </div>
 </div>
