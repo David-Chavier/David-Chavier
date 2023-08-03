@@ -9,7 +9,7 @@
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=David-Chavier&theme=react-dark&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Chavier&layout=donut&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Chavier&layout=donut&bg_color=00000000&hide_border=true)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
