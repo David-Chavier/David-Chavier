@@ -11,7 +11,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Chavier&layout=donut&bg_color=00000000&hide_border=true)
 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=David-Chavier&show_icons=true&bg_color=00000000)
 
 
