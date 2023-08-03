@@ -9,7 +9,8 @@
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=David-Chavier&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Chavier&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Chavier&layout=donut&theme=dark)
+
 
 
 
