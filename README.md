@@ -1,10 +1,12 @@
 
-- 👋 olá, eu sou o David
+<h2>🙋‍♂️ olá, eu sou o David </h2>
+
 - 🎮 Gosto de jogos, programar e aprender coisas novas.
 - 🛠  Ex montador de moveis.
 - 👨‍🎓  Sou aluno da 12° edição do Programa Starter Full Developer da Growdev.  
 - 💻 Estou em busca de uma oportunidade para ingressar na carreira dev.
-- ✉ Fale comigo: davidlustosa3@gmail.com
+- ✉ Email: davidlustosa3@gmail.com
+- 📱 Linkedin: <a href="linkedin.com/in/david-chavier">linkedin.com/in/david-chavier</a>
 
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=David-Chavier&bg_color=00000000&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
