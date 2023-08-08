@@ -8,6 +8,7 @@
 - ✉ Email: davidlustosa3@gmail.com
 - 📱 Linkedin: <a href="https://www.linkedin.com/in/david-chavier">www.linkedin.com/in/david-chavier</a>
 
+<hr/>
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=David-Chavier&bg_color=00000000&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
 
