@@ -1,5 +1,5 @@
 
-<h2>🙋‍♂️ olá, eu sou o David </h2>
+<h2>🙋‍♂️ Olá, eu sou o David </h2>
 
 - 🎮 Gosto de jogos, programar e aprender coisas novas.
 - 🛠  Ex montador de moveis.
