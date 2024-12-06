@@ -19,6 +19,7 @@ Com uma abordagem criativa e focada na resolução de problemas, busco agregar v
 - **Email**: [davidlustosa3@gmail.com](mailto:davidlustosa3@gmail.com)  
 - **LinkedIn**: [linkedin.com/in/david-chavier](https://www.linkedin.com/in/david-chavier)
 
+---
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=David-Chavier&bg_color=00000000&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
 
