@@ -1,7 +1,6 @@
-
 # 👋 Olá, eu sou o David Chavier
 
-Sou um desenvolvedor Full Stack com experiência prática e foco em tecnologias modernas como **React**, **TypeScript** e **C#**. Formado no curso **Starter Full Stack Developer** pela Growdev, adquiri uma base sólida em desenvolvimento de aplicações reais, abrangendo todo o ciclo técnico, desde interfaces intuitivas até a configuração de bancos de dados robustos.
+Sou um **desenvolvedor Full Stack** com **um ano de experiência prática**, focado em tecnologias modernas como **React**, **TypeScript** e **C#**. Formado no curso **Starter Full Stack Developer** pela Growdev, adquiri uma base sólida em desenvolvimento de aplicações reais, abrangendo todo o ciclo técnico, desde interfaces intuitivas até a configuração de bancos de dados robustos.
 
 ## 🛠 Sobre Mim  
 - **Atuação Full Stack**: Contribuo em todas as etapas de desenvolvimento, com atenção à performance, escalabilidade e código limpo.  
@@ -11,7 +10,7 @@ Sou um desenvolvedor Full Stack com experiência prática e foco em tecnologias 
   - Arquitetura de software eficiente e integração de sistemas.  
   - Adaptação rápida a novas tecnologias e boas práticas.
 
-Com uma abordagem criativa e focada na resolução de problemas, busco agregar valor através de soluções inovadoras e escaláveis. Minha experiência em manutenção e suporte de computadores amplia minha visão técnica, facilitando a colaboração entre diferentes áreas.
+Com uma abordagem criativa e focada na resolução de problemas, busco agregar valor através de soluções inovadoras e escaláveis.
 
 ---
 
@@ -26,5 +25,3 @@ Com uma abordagem criativa e focada na resolução de problemas, busco agregar v
 <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-Chavier&layout=donut&bg_color=00000000&hide_border=true" alt="Top Langs" />
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=David-Chavier&show_icons=true&bg_color=00000000&hide_border=true" alt="GitHub stats">
-
-
