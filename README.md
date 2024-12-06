@@ -1,14 +1,24 @@
 
-<h2>🙋‍♂️ Olá, eu sou o David </h2>
+# 👋 Olá, eu sou o David Chavier
 
-- 🎮 Gosto de jogos, programar e aprender coisas novas.
-- 🛠  Ex montador de moveis.
-- 👨‍🎓  Sou aluno da 12° edição do Programa Starter Full Developer da Growdev.  
-- 💻 Estou em busca de uma oportunidade para ingressar na carreira dev.
-- ✉ Email: davidlustosa3@gmail.com
-- 📱 Linkedin: <a href="https://www.linkedin.com/in/david-chavier">www.linkedin.com/in/david-chavier</a>
+Sou um desenvolvedor Full Stack com experiência prática e foco em tecnologias modernas como **React**, **TypeScript** e **C#**. Formado no curso **Starter Full Stack Developer** pela Growdev, adquiri uma base sólida em desenvolvimento de aplicações reais, abrangendo todo o ciclo técnico, desde interfaces intuitivas até a configuração de bancos de dados robustos.
 
-<hr/>
+## 🛠 Sobre Mim  
+- **Atuação Full Stack**: Contribuo em todas as etapas de desenvolvimento, com atenção à performance, escalabilidade e código limpo.  
+- **Formação Acadêmica**: Estudante de **Sistemas para Internet** pela UAPI, sempre buscando aprimorar minhas habilidades.  
+- **Competências**:  
+  - Desenvolvimento de interfaces modernas e responsivas.  
+  - Arquitetura de software eficiente e integração de sistemas.  
+  - Adaptação rápida a novas tecnologias e boas práticas.
+
+Com uma abordagem criativa e focada na resolução de problemas, busco agregar valor através de soluções inovadoras e escaláveis. Minha experiência em manutenção e suporte de computadores amplia minha visão técnica, facilitando a colaboração entre diferentes áreas.
+
+---
+
+## 🌟 Vamos Conectar!
+- **Email**: [davidlustosa3@gmail.com](mailto:davidlustosa3@gmail.com)  
+- **LinkedIn**: [linkedin.com/in/david-chavier](https://www.linkedin.com/in/david-chavier)
+
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=David-Chavier&bg_color=00000000&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
 
